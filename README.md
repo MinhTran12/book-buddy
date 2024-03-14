@@ -1,1 +1,3 @@
-# book-buddy
+# Book Buddy Application
+
+# React + Vite
