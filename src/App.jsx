@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<LoginPage/>} />
-        <Route path="/LandingPage" element={<LandingPage/>} />
+        <Route path="/landing" element={<LandingPage/>} />
         <Route path="/settings" element={<SettingsPage />} />
         <Route path="/my-books" element={<MyBooksPage />} />
         <Route path="/my-pals" element={<MyPalsPage />} />

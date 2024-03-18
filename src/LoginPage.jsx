@@ -19,7 +19,7 @@ function LoginPage() {
     console.log('Email:', email);
     console.log('Password:', password);
     // Redirect to landing page after successful login
-    navigate('/LandingPage');
+    navigate('/landing');
   };
 
   return (
